@@ -1,0 +1,3 @@
+AI Use Acknowledgement
+
+Generative AI was used to review the code and help fix some issues. The final code was checked and understood by the student.
